@@ -1,6 +1,6 @@
 # Introduction to Python Programming - Computer Programming Sessional 1
 
-Welcome to the repository for the **Introduction to Python Programming** course, part of the **Computer Programming Sessional 1(WRE-202)** curriculum. This repository contains various Jupyter Notebook files for each class session, where you will learn and practice fundamental Python concepts and programming techniques.
+Welcome to the repository for the **Introduction to Python Programming** course, titled as **Computer Programming Sessional 1(WRE-202)** . This repository contains various Jupyter Notebook files for each class session, where you will learn and practice fundamental Python concepts and programming techniques.
 
 ## Course Overview
 This course aims to introduce students to Python programming by covering essential topics such as variables, data types, control structures, functions, file handling, Introduction to python packages and libraries, Numpy, Pandas, Matplotlib, Seaborn, Exploratory Data Analyis and Data Visualisation in Python. The course is designed for beginners and includes hands-on practice through class lectures and exercises.
@@ -55,7 +55,7 @@ This course aims to introduce students to Python programming by covering essenti
 This repository is licensed under the MIT License.
 
 ## Acknowledgments
-- This course was developed as part of the **Computer Programming Sessional 1** curriculum at Department of Water Resources Engineering, CUET.
+- This course was developed as part of the **Computer Programming Sessional 1** course for 2nd year student at Department of Water Resources Engineering, CUET.
 
 ---
 
