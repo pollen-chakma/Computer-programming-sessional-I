@@ -1,9 +1,9 @@
 # Introduction to Python Programming - Computer Programming Sessional 1
 
-Welcome to the repository for the **Introduction to Python Programming** course, part of the **Computer Programming Sessional 1** curriculum. This repository contains various Jupyter Notebook files for each class session, where you will learn and practice fundamental Python concepts and programming techniques.
+Welcome to the repository for the **Introduction to Python Programming** course, part of the **Computer Programming Sessional 1(WRE-202)** curriculum. This repository contains various Jupyter Notebook files for each class session, where you will learn and practice fundamental Python concepts and programming techniques.
 
 ## Course Overview
-This course aims to introduce students to Python programming by covering essential topics such as variables, data types, control structures, functions, file handling, and object-oriented programming. The course is designed for beginners and includes hands-on practice through class lectures and exercises.
+This course aims to introduce students to Python programming by covering essential topics such as variables, data types, control structures, functions, file handling, Introduction to python packages and libraries, Numpy, Pandas, Matplotlib, Seaborn, Exploratory Data Analyis and Data Visualisation in Python. The course is designed for beginners and includes hands-on practice through class lectures and exercises.
 
 ## How to Use the Files
 
@@ -32,14 +32,16 @@ This course aims to introduce students to Python programming by covering essenti
 4. **Session Overview**  
    Each notebook corresponds to a different class lecture. The topics covered in these sessions include:
    
-   - **Session 1**: Introduction to Python and Basic Syntax
-   - **Session 2**: Variables, Data Types, and Operators
-   - **Session 3**: Control Structures: If-Else, Loops
-   - **Session 4**: Functions and Recursion
-   - **Session 5**: Lists, Tuples, and Dictionaries
-   - **Session 6**: File Handling in Python
-   - **Session 7**: Introduction to Object-Oriented Programming
-   - **Session 8**: Final Project and Review
+   - **Session 1**: Introduction to Python and Jupyter Notebook
+   - **Session 2**: Variables, Data Types
+   - **Session 3**: Operators and Conditional Statements
+   - **Session 4**: Loop
+   - **Session 5**: Data Structures in Python (Set , Lists, Tuples, and Dictionaries)
+   - **Session 6**: Function in Python
+   - **Session 7**: Python Packages and Libraries, Numpy
+   - **Session 8**: Exploratory Data Analysis in Python using Pandas
+   - **Session 9**: Data Visualisation in Python using Matplotlib and Seaborn
+   - **Session 10**: Final Project and Review
    
    Each notebook contains examples, explanations, and exercises to help reinforce the concepts. You can interact with the code, modify it, and test your understanding by running the cells.
 
@@ -53,7 +55,7 @@ This course aims to introduce students to Python programming by covering essenti
 This repository is licensed under the MIT License.
 
 ## Acknowledgments
-- This course was developed as part of the **Computer Programming Sessional 1** curriculum at [Your Institution].
+- This course was developed as part of the **Computer Programming Sessional 1** curriculum at Department of Water Resources Engineering, CUET.
 
 ---
 
